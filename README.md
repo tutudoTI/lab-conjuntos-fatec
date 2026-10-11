@@ -4,6 +4,7 @@ Atividade prática desenvolvida para o curso de **Desenvolvimento de Software Mu
 
 ## 👥 Equipe
 * Arthur Prates de Oliveira[cite: 1]
+* Arthur Souza
 
 ## 🚀 Sobre o Projeto
 O objetivo deste laboratório é aplicar conceitos matemáticos de **Teoria dos Conjuntos** e **Conjuntos Numéricos** na resolução de problemas em linguagem Python[cite: 1]. O projeto divide-se em três partes:
