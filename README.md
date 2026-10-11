@@ -3,7 +3,7 @@
 Atividade prática desenvolvida para o curso de **Desenvolvimento de Software Multiplataforma (DSM)** da **Fatec Osasco**[cite: 1].
 
 ## 👥 Equipe
-* Arthur Prates de Oliveira[cite: 1]
+* Arthur Prates de Oliveira
 * Arthur Souza
 
 ## 🚀 Sobre o Projeto
